@@ -1,0 +1,58 @@
+_repo: Magyar-regek-mondak-es-nepmesek_66789
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Kazinczy, Gábor
+    alias: Kazinczy, Gabor
+    birthdate: 1818
+    deathdate: 1864
+    gutenberg_agent_id: '53964'
+    url: http://www.gutenberg.org/2009/agents/53964
+    wikipedia: https://hu.wikipedia.org/wiki/Kazinczy_G%C3%A1bor_(politikus)
+  translator:
+    agent_name: Kazinczy, Ferencz
+    aliases:
+    - Szephalmy, Vintze
+    - Kazinczy, Ferenc
+    - Széphalmy, Vintze
+    birthdate: 1759
+    deathdate: 1831
+    gutenberg_agent_id: '53963'
+    url: http://www.gutenberg.org/2009/agents/53963
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ferenc_Kazinczy
+    - https://hu.wikipedia.org/wiki/Kazinczy_Ferenc
+creator:
+  author:
+    agent_name: Mailáth, János Nepomuk Jozsef, gróf
+    aliases:
+    - Mailáth, Joh. (Johann), Graf
+    - Mailáth, Johann von
+    - Von Mailáth, Johann
+    - Mailath, Janos Nepomuk Jozsef, grof
+    - Majláth, János
+    birthdate: 1786
+    deathdate: 1855
+    gutenberg_agent_id: '53962'
+    url: http://www.gutenberg.org/2009/agents/53962
+    wikipedia:
+    - https://en.wikipedia.org/wiki/J%C3%A1nos_Majl%C3%A1th
+    - https://hu.wikipedia.org/wiki/Mail%C3%A1th_J%C3%A1nos
+description: ''
+gutenberg_issued: '2021-11-21'
+identifiers:
+  gutenberg: '66789'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Hungary'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Salamon, magyarok királya -- A három királyleány -- A vilik táncza
+  -- A két testvér -- Ardónak úrnéja -- A levél -- A falba-zárt -- Vas Laczi -- A
+  sóbányák -- Tündér Ilona -- A bosszúló kard -- Erzsi, a fonó -- A kincs -- A rózsát-nevető
+  herczegnő -- Füred -- Pengő.
+title: Magyar regék, mondák és népmesék
+url: http://www.gutenberg.org/ebooks/66789
