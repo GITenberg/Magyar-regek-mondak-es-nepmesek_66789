@@ -22,6 +22,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Ferenc_Kazinczy
     - https://hu.wikipedia.org/wiki/Kazinczy_Ferenc
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mailáth, János Nepomuk Jozsef, gróf
@@ -39,6 +42,8 @@ creator:
     - https://en.wikipedia.org/wiki/J%C3%A1nos_Majl%C3%A1th
     - https://hu.wikipedia.org/wiki/Mail%C3%A1th_J%C3%A1nos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66789#Magyar-regek-mondak-es-nepmesek
 gutenberg_issued: '2021-11-21'
 identifiers:
   gutenberg: '66789'
